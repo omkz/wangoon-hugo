@@ -1,6 +1,6 @@
 baseURL = "https://wangoon.github.io/"
 languageCode = "en-us"
-title = "Minimal"
+title = "wangoon studio"
 theme = "hyde"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
